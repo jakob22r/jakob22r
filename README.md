@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakob22r
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning F# for some reason..
+- 🌱 I <3 .NET..
 
 <!---
 jakob22r/jakob22r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
